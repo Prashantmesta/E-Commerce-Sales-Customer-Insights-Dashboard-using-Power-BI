@@ -30,7 +30,7 @@ This project analyzes e-commerce sales data to identify trends in sales, custome
 - Customer ratings analysis
 
 ## 📸 Dashboard Preview
-![Overview](https://github.com/Prashantmesta/Europe-bike-store-sales/blob/e24315b37805e85429b8674d851eff415a94d4fe/BI%20PROJECT%20SS.png)
+![Overview](https://github.com/Prashantmesta/E-Commerce-Sales-Customer-Insights-Dashboard-using-Power-BI/blob/20cd684a5ab734d418e4543c9bb6e3dfa615d4d6/Screenshot%202025-12-16%20110834.png)
 
 ## 🧮 Key DAX Measures
 ```DAX
